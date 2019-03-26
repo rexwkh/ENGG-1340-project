@@ -11,5 +11,5 @@ The following are some features about this account system.
 7. The system will support multiple currencies by categorizing different currencies into different groups when people add records and allow users to change one currency to another when it is necessary. 
 
 The following are some reasonable assumptions about this account system.
-It is assumed that there is a max number of records that the system can handle.
-It is assumed that the system can only handle some commonly used currencies (e.g., HKD, USD, RMB, YEN, EURO, GBP, KRW, etc.)
+1. It is assumed that there is a max number of records that the system can handle.
+2. It is assumed that the system can only handle some commonly used currencies (e.g., HKD, USD, RMB, YEN, EURO, GBP, KRW, etc.)
